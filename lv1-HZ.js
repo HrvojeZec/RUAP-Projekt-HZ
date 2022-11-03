@@ -1,0 +1,1 @@
+print("„Pozdrav iz aplikacije od Hrvoje Zec 01231234234523")
